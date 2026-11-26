@@ -10,4 +10,8 @@ public class Person {
         this.lastName = lastName;
         this.age = age;
     }
+
+    public int getAge() {
+        return age;
+    }
 }
